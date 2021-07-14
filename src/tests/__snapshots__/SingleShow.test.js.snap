@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SingleShow Component should match the snapshot 1`] = `"<div class=\\"singlepage\\"><img src=\\"No image\\"/><div class=\\"singlepage__info\\"><h1></h1><h3>Rating: No rating</h3><h3></h3><p>Language: </p><p>Status: </p><p>Premiered: N/A</p><p>Country: N/A</p><p>Official Site:  N/A</p><p></p></div></div>"`;
